@@ -1,9 +1,0 @@
-.venv/
-build/
-dist/
-logs/
-.idea/
-__pycache__/
-*.pyc
-assets/frames/
-icon.ico
